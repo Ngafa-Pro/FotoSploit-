@@ -5,41 +5,40 @@ Banner FotoSploit
 
 ![69989850-269e8280-150a-11ea-8ebc-7a585e17ade4](https://user-images.githubusercontent.com/75740176/104574421-e8045280-564d-11eb-8041-8ede43098b6e.jpg)
 
-
 Instalação
-
-pkg update && pkg upgrade -y
-pkg install -y php
-pkg install -y python2
-pkg install -y git
-cd $HOME
-git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
-cd FotoSploit
-ls
-bash install.sh 
-./FotoSploit 
-
-Instalação FotoSploit premium
-
-pkg update && pkg upgrade -y
-pkg install -y php
-pkg install -y python2
-pkg install -y git
-CD $HOME
-git clone https://github.com/Cesar-Hack-Gray/FotoSploit 
+ 
+pkg update && pkg upgrade -y 
+pkg install -y php 
+pkg install -y python2 
+pkg install -y git 
+cd $HOME 
+git clone https://github.com/Cesar-Hack-Gray/FotoSploit  
 cd FotoSploit 
-ls
-bash install.sh --install --premium
-./FotoSploit [option]
-
-Screenhost 
-
-![69989984-70876880-150a-11ea-96ef-efe7a91f54f0](https://user-images.githubusercontent.com/75740176/104576439-184cf080-5650-11eb-89f9-a9d0984d7383.jpg)
-
-
+ls 
+bash install.sh  
+./FotoSploit  
+ 
+Instalação FotoSploit premium 
+ 
+pkg update && pkg upgrade -y 
+pkg install -y php 
+pkg install -y python2 
+pkg install -y git 
+CD $HOME 
+git clone https://github.com/Cesar-Hack-Gray/FotoSploit  
+cd FotoSploit  
+ls 
+bash install.sh --install --premium 
+./FotoSploit [option] 
+ 
+Screenhost  
+ 
+![69989984-70876880-150a-11ea-96ef-efe7a91f54f0](https://user-images.githubusercontent.com/75740176/104576439-184cf080-5650-11eb-89f9-a9d0984d7383.jpg) 
+ 
+ 
 Uso 
- _____________________________________________________________________
-             ___             _,.---,---.,_
+ _____________________________________________________________________ 
+             ___             _,.---,---.,_  
              |           ,;~'             '~;,
              |         ,;                     ;,
     Frontal  |        ;                        ; ,--- Siga-me em todas as redes sociais
@@ -82,32 +81,32 @@ _________________________________________________________________
  exit              Salir
  
  
- set title url Cesar-Hack-Gray (example)
- set foto [youtube] [FreeFire] [PUBG]
- [Anime] [pornografia] [Bokep] [facebook]
- [/sdcard/example.jpg]
- 
- 
- SET FOTO :
- SET VIEW :
- SET TITLE URL :
- 
- 
- FotoSploit> set foto /sdcard/foto.jpg
- [+] FOTO => /sdcard/foto.jpg
- FotoSploit> set title url Name-Victim
- [+] Name => Name-Victim
- FotoSploit> set view YOUTUBE
- [+] VISTA => www.youtube.com
- FotoSploit> GO
- [+] Uploading -> /sdcard/foto.jpg...
- [+] Abriendo servidores...
- [+] Abriendo servidor php...
- [+] Abriendo servidor ssh...
- [+] Abriendo servidor ngrok..
- [+] Descargando ngrok full....
- [+] Obteniendo URLs..
- [+] Servicio de ayuda = https://t.me/CesarGray
- [+] Envia ala victima = http://localhost:5756
- [+] Envia ala victima = https://1d16900a.ngrok.io
- [+] Interactuando ala victima...
+ set title url Cesar-Hack-Gray (example) 
+ set foto [youtube] [FreeFire] [PUBG] 
+ [Anime] [pornografia] [Bokep] [facebook] 
+ [/sdcard/example.jpg] 
+  
+  
+ SET FOTO : 
+ SET VIEW : 
+ SET TITLE URL : 
+  
+  
+ FotoSploit> set foto /sdcard/foto.jpg 
+ [+] FOTO => /sdcard/foto.jpg 
+ FotoSploit> set title url Name-Victim 
+ [+] Name => Name-Victim 
+ FotoSploit> set view YOUTUBE 
+ [+] VISTA => www.youtube.com 
+ FotoSploit> GO 
+ [+] Uploading -> /sdcard/foto.jpg... 
+ [+] Abriendo servidores... 
+ [+] Abriendo servidor php... 
+ [+] Abriendo servidor ssh... 
+ [+] Abriendo servidor ngrok.. 
+ [+] Descargando ngrok full.... 
+ [+] Obteniendo URLs.. 
+ [+] Servicio de ayuda = https://t.me/CesarGray 
+ [+] Envia ala victima = http://localhost:5756 
+ [+] Envia ala victima = https://1d16900a.ngrok.io 
+ [+] Interactuando ala victima... 
