@@ -5,7 +5,7 @@ Banner FotoSploit
 
 ![69989850-269e8280-150a-11ea-8ebc-7a585e17ade4](https://user-images.githubusercontent.com/75740176/104574421-e8045280-564d-11eb-8041-8ede43098b6e.jpg)
 
-Instalação
+Instalação 
  
 pkg update && pkg upgrade -y 
 pkg install -y php 
@@ -31,82 +31,7 @@ ls
 bash install.sh --install --premium 
 ./FotoSploit [option] 
  
-Screenhost  
- 
-![69989984-70876880-150a-11ea-96ef-efe7a91f54f0](https://user-images.githubusercontent.com/75740176/104576439-184cf080-5650-11eb-89f9-a9d0984d7383.jpg) 
- 
- 
-Uso 
- _____________________________________________________________________ 
-             ___             _,.---,---.,_  
-             |           ,;~'             '~;,
-             |         ,;                     ;,
-    Frontal  |        ;                        ; ,--- Siga-me em todas as redes sociais
-     Bone    |       ,'                        /'
-             |      ,;                       /' ;,
-             |      ; ;      .          . <-'  ; |
-             |__   | ;   ______       ______   ;<----- Ngafa-Pró
-             ___   |  '/~ ~ . ~ ~\'  |
-            |      |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
-  Maxilla,  |       |   |        }:{        | <------ Orbit
- Nasal and  |       |   l       / | \       !   |
- Zygomatic  |      .~  (__,.-- .^. --.,__)  ~.
-   Bones    |      |    ----;' / | \  ;-<--------- Infraorbital Foramen
-         |__       \__.       \/^\/       .__
-              ___    V| \                 / |V <--- Copie e cole o meu endereço mais abaixo
-              |       | |T~\___!___!___/~T| |
-              |       | | IIII_I_I_I_IIII | |
-     Mandible |       |  \ III I I I III,/  |
-              |        \    ~~~~~~~~~~
-             |          \   .       . <-x---- Por Favor, mande só saldo( +244 941172521)
-              |__          \.    ^    .
-                             ^~~~^~~~^
-_________________________________________________________________            
-           Created by @Luís ALcastana Lavoziel(Ngafa-Pró)
-                  Usage: show options
-
- FotoSploit> show options
- ===============
- CNgafa-Pró
- ===============
- 
- Comandos          descripsion
- 
- show options      opciones
- set foto          [option]
- set title url     [Titulo]
- set view          [FACEBOOK][YOUTUBE]
- GO                Comenzar
- run               Comenzar
- exit              Salir
- 
- 
- set title url Cesar-Hack-Gray (example) 
- set foto [youtube] [FreeFire] [PUBG] 
- [Anime] [pornografia] [Bokep] [facebook] 
- [/sdcard/example.jpg] 
+Screenhost   
   
+![69989984-70876880-150a-11ea-96ef-efe7a91f54f0](https://user-images.githubusercontent.com/75740176/104576439-184cf080-5650-11eb-89f9-a9d0984d7383.jpg)  
   
- SET FOTO : 
- SET VIEW : 
- SET TITLE URL : 
-  
-  
- FotoSploit> set foto /sdcard/foto.jpg 
- [+] FOTO => /sdcard/foto.jpg 
- FotoSploit> set title url Name-Victim 
- [+] Name => Name-Victim 
- FotoSploit> set view YOUTUBE 
- [+] VISTA => www.youtube.com 
- FotoSploit> GO 
- [+] Uploading -> /sdcard/foto.jpg... 
- [+] Abriendo servidores... 
- [+] Abriendo servidor php... 
- [+] Abriendo servidor ssh... 
- [+] Abriendo servidor ngrok.. 
- [+] Descargando ngrok full.... 
- [+] Obteniendo URLs.. 
- [+] Servicio de ayuda = https://t.me/CesarGray 
- [+] Envia ala victima = http://localhost:5756 
- [+] Envia ala victima = https://1d16900a.ngrok.io 
- [+] Interactuando ala victima... 
