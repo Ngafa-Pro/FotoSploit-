@@ -34,5 +34,15 @@ bash install.sh --install --premium
 Screenhost      
      
 ![69989984-70876880-150a-11ea-96ef-efe7a91f54f0](https://user-images.githubusercontent.com/75740176/104576439-184cf080-5650-11eb-89f9-a9d0984d7383.jpg)     
+        
+      
+=====================Redes Sociais===========================   
+Youtube: encurtador.com.br/luL39?sub_confirmation=1   
     
-  
+Facebook: encurtador.com.br/dfqLN   
+    
+Instagram: encurtador.com.br/ewFRZ    
+https://twitter.com/ngafapro    
+WhatsApp: +244 941172521    
+https://ngafapro.weebly.com     
+https://github.com/Ngafa-Pro    
